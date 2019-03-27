@@ -1,0 +1,3 @@
+python, ruby, R,             postgresql,
+        sql, c++, c ,  javascript,
+go, .net, mysql, C/C++
